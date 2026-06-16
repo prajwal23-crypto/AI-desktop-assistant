@@ -1,6 +1,7 @@
-BARVISS — AI Desktop Assistant
+#BARVISS — AI Desktop Assistant
+![Barviss GUI](screenshot.png)
 
-Detailed Description
+##Detailed Description
 BARVISS is not just another voice assistant script. It is a complete AI-powered desktop experience built from scratch using pure Python. The moment you say "Initiate" or "Hey Barviss," the application wakes up from the background, pops open a full-screen futuristic HUD interface, glows its microphone ring green, and says "Yes Prajwal, I'm listening" — ready for your command.
 Every single action Barviss takes is announced out loud. When you say open YouTube, it says "Opening YouTube for you." When you say shutdown, it counts down and says "Shutting down in 5 seconds, have a great day Prajwal." It feels alive. It feels like a real assistant.
 The GUI itself is a work of art — dark navy background, animated rotating cyan arc rings, a live voice waveform that pulses when Barviss speaks, a real-time digital and analog clock, live system stats with color-coded bars, a timestamped activity log, and clickable quick-action buttons for every major function. Every detail was hand-drawn using Python's tkinter canvas — no external UI framework, no web view, just raw canvas drawing code.
